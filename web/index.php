@@ -5,7 +5,7 @@
     <meta 
         name="description"
         content="testing to see if can make all attribute in Lighthouse 100%">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">`
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
   Hello World! I wanna scream
