@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <title>test</title>
+    <meta 
+        name=description
+        content="testing to see if can make all attribute in Lighthouse 100%">
 </head>
 <body>
   Hello World! I wanna scream
