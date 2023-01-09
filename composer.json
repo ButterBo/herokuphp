@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Sean Yong",
+        "email": "21044912@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
